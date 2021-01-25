@@ -6,3 +6,22 @@ body {
 a {
 	color: #b8d6d9;	
 }
+
+table {
+	width: 100%;
+	border: 1px solid #b8d6d9;
+	text-align: center;
+}
+
+th {
+	border: 1px solid #b8d6d9;
+}
+
+td {
+	border: 1px solid #b8d6d9;
+}
+
+.bold {
+	font-weight: bold;
+	color: grey;
+}
