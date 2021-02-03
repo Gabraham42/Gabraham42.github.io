@@ -25,10 +25,6 @@ td {
 	color: grey;
 }
 
- br {
-    display: none; /* hide the BR tag for wider screens (i.e. disable the line break) */
-}
-
 #banner {
 	display: flex;
 	background-color: aqua;
