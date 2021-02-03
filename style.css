@@ -25,3 +25,7 @@ td {
 	font-weight: bold;
 	color: grey;
 }
+
+ br {
+    display: none; /* hide the BR tag for wider screens (i.e. disable the line break) */
+}
