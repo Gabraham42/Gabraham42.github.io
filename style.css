@@ -8,7 +8,6 @@ a {
 }
 
 table {
-	width: 100%;
 	border: 1px solid #b8d6d9;
 	text-align: center;
 }
@@ -28,4 +27,13 @@ td {
 
  br {
     display: none; /* hide the BR tag for wider screens (i.e. disable the line break) */
+}
+
+#banner {
+	display: flex;
+	background-color: aqua;
+	color: black;
+	height: 50px;
+	justify-content: center;
+	align-items: center;
 }
